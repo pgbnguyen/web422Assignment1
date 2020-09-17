@@ -10,6 +10,6 @@ node server.js
 ```
 API test links:
 
-* Home: https://dashboard.heroku.com/apps/web422-assignment1-pgbnguyen
+* Home: https://web422-assignment1-pgbnguyen.herokuapp.com/
 * GET all sales: https://web422-assignment1-pgbnguyen.herokuapp.com/api/sales?page=1&perPage=5
 * Get sale by ID: https://web422-assignment1-pgbnguyen.herokuapp.com/api/sales/5bd761dcae323e45a93cd035
